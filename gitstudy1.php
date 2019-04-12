@@ -10,5 +10,8 @@ git commit
 git commit -m "メッセージ"
 git commit -v
 
+githubへプッシュ
+git push origin master
 
-github上で、修正したお！！！
+github上で、内容の修正もした。
+
