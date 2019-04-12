@@ -10,3 +10,5 @@ git commit
 git commit -m "メッセージ"
 git commit -v
 
+
+github上で、修正したお！！！
