@@ -13,5 +13,3 @@ git commit -v
 githubへプッシュ
 git push origin master
 
-github上で、内容の修正もした。
-
